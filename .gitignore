@@ -87,8 +87,4 @@ local_settings.py
 db.sqlite3
 
 ### Ignore Migrations and Pychache ###
-/accounts/migrations/*
-/client/migrations/*
-/accounts/__pycache__/*
-/client/__pycache__/*
-/cseportal/__pycache__/
+migrations/
